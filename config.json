@@ -1,6 +1,6 @@
 {
-	"ip":"fskhri.aternos.me",
-	"port": "25565",
-	"name": "AchanServer",
+	"ip":"247BedrockSMP.aternos.me",
+	"port": "44979",
+	"name": "BedrockAFKbot",
 	"auto-night-skip":"false"
 }
